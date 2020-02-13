@@ -1,4 +1,4 @@
-google.com, pub-8832930139725346, DIRECT, f08c47fec0942fa0var Base64 = {
+var Base64 = {
 _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
 encode: function (input) {
 var output = "";
